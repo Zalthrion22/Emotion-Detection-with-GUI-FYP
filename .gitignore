@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# DistilBERT weights are too large for GitHub (256 MB > 100 MB hard limit).
+# Distributed as a GitHub Release asset instead — see README.
+models/distilbert_text/model.safetensors
+models/distilbert_text/checkpoints/
+
+# Runtime artefacts (auto-recreated on first run)
+outputs/recordings/
+logs/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

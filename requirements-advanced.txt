@@ -1,0 +1,9 @@
+# Optional: required only for the DistilBERT text model.
+# Install on top of the base requirements with:
+#     pip install -r requirements-advanced.txt
+-r requirements.txt
+
+torch>=2.2
+transformers>=4.41
+datasets>=2.18
+accelerate>=0.30

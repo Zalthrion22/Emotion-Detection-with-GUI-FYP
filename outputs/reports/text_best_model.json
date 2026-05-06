@@ -1,0 +1,10 @@
+{
+  "best_model": "logreg",
+  "metrics": {
+    "accuracy": 0.6296370967741935,
+    "precision_macro": 0.5697017414537322,
+    "recall_macro": 0.6068725968861167,
+    "f1_macro": 0.5844050799286421,
+    "f1_weighted": 0.6371992273769599
+  }
+}

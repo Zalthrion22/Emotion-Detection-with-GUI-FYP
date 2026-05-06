@@ -1,0 +1,4 @@
+model,cold_start_ms,warm_mean_ms,warm_std_ms,n_warm
+logreg (text),1959.2,3.75,1.33,20
+distilbert (text),20176.4,39.27,5.92,10
+svm_rbf (speech),4742.5,26.05,8.66,20

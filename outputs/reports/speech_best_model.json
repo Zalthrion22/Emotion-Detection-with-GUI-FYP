@@ -1,0 +1,17 @@
+{
+  "best_model": "svm_rbf",
+  "metrics": {
+    "accuracy": 0.49615384615384617,
+    "precision_macro": 0.5407195108414621,
+    "recall_macro": 0.49583333333333335,
+    "f1_macro": 0.5033456607341136,
+    "f1_weighted": 0.5058355549633576
+  },
+  "test_actors": [
+    1,
+    9,
+    12,
+    17,
+    19
+  ]
+}
